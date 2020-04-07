@@ -1,0 +1,50 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* food,llc */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#p1{
+  background-color: #A52A2A;
+  
+}
+#p2{
+  background-color: #DEB887;
+}
+#p3{
+  background-color: #A52A4A;
+}
+h1{
+  margin-bottom: 15px;
+  text-align: center;
+  color:green;
+  font-family: cursive;
+  font-style: bold;
+}
+ @media()
